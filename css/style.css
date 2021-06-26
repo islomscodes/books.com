@@ -1,0 +1,29 @@
+.logo{
+    object-fit: cover;
+}
+.rounded {
+    border-radius: 10px !important;
+  }
+  
+  .layout .sidebar {
+    width: 300px;
+  }
+  .layout .sidebar .list-group .list-group-item {
+    border: none !important;
+    border-radius: 10px !important;
+    margin: 4px 0 !important;
+  }
+  .layout .content {
+    flex: 1;
+  }
+  .span{
+      font-size: 10px;
+  }
+  .card.bg-light{
+    max-height: 200px !important;
+    min-height: 200px !important;
+    outline: none !important;
+
+
+
+  }
